@@ -7,7 +7,7 @@ meet the unique requirements of administrators and customers. Niko offers an ext
 of features, ensuring an efficient management system for administrators and a flawless
 shopping experience for customers within the command line interface.
 
-#Key Features:
+# Key Features:
 • User Authentication: Begin your journey by either logging in as an
 administrator, equipped with system management privileges, or as a customer,
 eager to explore and purchase from our extensive shoe collection.
